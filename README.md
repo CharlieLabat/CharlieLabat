@@ -1,7 +1,7 @@
 - 👋 Salut, c'est @CharlieLabat
 - C'est le compte Lycée Merleau-Ponty de Charlie LABAT
 - Amoureux de nouvelles inventions que les lignes de code savent bien faire !
--  @CharlieLabat17 , C'est mon compte perso 
+
 
 <!---
 CharlieLabat/CharlieLabat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
